@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 welcome to Catalina's profile. This is where all of her code lives.
 
 <!--
 **catalinarw/catalinarw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
